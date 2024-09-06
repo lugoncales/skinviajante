@@ -13,6 +13,9 @@ let dados = [
         titulo : "Chapada Diamantina",
         descricao : "A Chapada Diamantina é um dos destinos mais exuberantes da Bahia. Com cachoeiras, cânions, trilhas e paisagens deslumbrantes, a região oferece diversas opções de aventura e contato com a natureza. As cidades de Lençóis e Mucugê são os principais centros turísticos da região.",
         link : "http://www.chapadadiamantina.ba.gov.br"
+    },
+    {
+        titulo : "Lençóis Maranhenses"
     }
 ];
 
