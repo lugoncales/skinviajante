@@ -18,7 +18,7 @@
 
 **Como usar este projeto:**
 
-1. **Clone o repositório:** Use o comando `git clone https://github.com/seu-usuario/skin-viajante.git` para baixar o projeto.
+1. **Clone o repositório:** Use o comando `git clone https://github.com/lugoncales/skin-viajante.git` para baixar o projeto.
 2. **Abra o index.html:** Abra o arquivo `index.html` em seu navegador favorito.
 3. **Comece a pesquisar:** Digite seu destino e pronto!
 
@@ -38,6 +38,6 @@ Adoramos receber novas ideias e sugestões! Se você quiser contribuir para o pr
 
 **Dica:** Para deixar o README ainda mais legal, você pode adicionar imagens da sua aplicação, um GIF demonstrando como ela funciona ou até mesmo um pequeno vídeo explicativo.
 
-**Lembre-se de substituir "[https://github.com/seu-usuario/skin-viajante.git](https://github.com/lugoncales/skin-viajante.git)" pelo link correto do seu repositório.**
+**Lembre-se de substituir "[https://github.com/lugoncales/skin-viajante.git](https://github.com/lugoncales/skin-viajante.git)" pelo link correto do seu repositório.**
 
 Com este README, você terá um guia completo e divertido para o seu projeto Skin Viajante!
