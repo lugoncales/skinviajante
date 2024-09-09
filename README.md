@@ -38,6 +38,6 @@ Adoramos receber novas ideias e sugestões! Se você quiser contribuir para o pr
 
 **Dica:** Para deixar o README ainda mais legal, você pode adicionar imagens da sua aplicação, um GIF demonstrando como ela funciona ou até mesmo um pequeno vídeo explicativo.
 
-**Lembre-se de substituir "[https://github.com/seu-usuario/skin-viajante.git](https://github.com/seu-usuario/skin-viajante.git)" pelo link correto do seu repositório.**
+**Lembre-se de substituir "[https://github.com/seu-usuario/skin-viajante.git](https://github.com/lugoncales/skin-viajante.git)" pelo link correto do seu repositório.**
 
 Com este README, você terá um guia completo e divertido para o seu projeto Skin Viajante!
